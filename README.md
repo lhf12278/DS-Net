@@ -24,12 +24,12 @@ Thank you.
 Put your test images into "data/test/SOTS/". Run ```test.py``` using default hyper-parameter settings.
 
 # Contact:
-   Don't hesitate to contact me if you meet any problems when using this code.
-
-   Gao Jirui
-   Faculty of Information Engineering and Automation
-   Kunming University of Science and Technology                                                           
-   Email: 2945266153@qq.com
+    Don't hesitate to contact me if you meet any problems when using this code.
+    
+    Gao Jirui
+    Faculty of Information Engineering and Automation
+    Kunming University of Science and Technology                                                           
+    Email: 2945266153@qq.com
 
 # Acknowledgements
 Our code is based on : https://proteus1991.github.io/GridDehazeNet,https://github.com/zhilin007/FFA-Net.
